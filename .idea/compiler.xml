@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="leetCode" />
         <module name="jdbc" />
+        <module name="code" />
+        <module name="util" />
+        <module name="leetCode" />
         <module name="webMir" />
       </profile>
     </annotationProcessing>

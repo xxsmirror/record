@@ -11,6 +11,8 @@
     <modules>
         <module>leetCode</module>
         <module>jdbc</module>
+        <module>code</module>
+        <module>util</module>
     </modules>
 
     <properties>
