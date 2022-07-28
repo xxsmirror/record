@@ -1,4 +1,4 @@
-package factory;
+package designmode.factory;
 
 public class LatteCoffeeFactory implements CoffeeFactory{
     @Override

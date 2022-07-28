@@ -1,4 +1,4 @@
-package factory;
+package designmode.factory;
 
 public class FacTest {
     public static void main(String[] args) {
