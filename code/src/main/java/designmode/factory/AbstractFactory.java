@@ -1,7 +1,9 @@
 package factory;
 
+import designmode.factory.Coffee;
+
 public interface AbstractFactory {
-    public Product createProduct();
+    public factory.Product createProduct();
     public Coffee createCoffee();
 
 }

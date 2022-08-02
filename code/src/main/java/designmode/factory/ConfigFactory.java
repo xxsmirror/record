@@ -1,5 +1,7 @@
 package factory;
 
+import designmode.factory.Coffee;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;

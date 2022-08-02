@@ -1,8 +1,10 @@
 package factory;
 
-public class RealFactory1 implements AbstractFactory{
+import designmode.factory.Coffee;
+
+public class RealFactory1 implements factory.AbstractFactory {
     @Override
-    public Product createProduct() {
+    public factory.Product createProduct() {
         return null;
     }
 

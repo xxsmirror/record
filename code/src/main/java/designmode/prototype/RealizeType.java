@@ -1,4 +1,4 @@
-package prototype;
+package designmode.prototype;
 
 public class RealizeType implements Cloneable{
     protected RealizeType clone() throws CloneNotSupportedException{
