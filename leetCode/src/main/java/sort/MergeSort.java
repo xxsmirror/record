@@ -21,7 +21,7 @@ public class MergeSort {
         int p2 = M+1;
 
         while (p1<=M && p2<=R){
-            temps[i++]=arr[p1]<=arr[p2]?arr[p1]:arr[p2];
+            temps[i++]=arr[p1]<=arr[p2]?arr[p1++]:arr[p2++];
         }
         while (p1<=M){
             temps[i++]=arr[p1++];
